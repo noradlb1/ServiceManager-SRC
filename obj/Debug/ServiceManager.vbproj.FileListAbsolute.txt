@@ -1,0 +1,9 @@
+C:\Users\VanToM\Desktop\Service Manager Sample\VB\bin\Debug\ServiceManager.exe
+C:\Users\VanToM\Desktop\Service Manager Sample\VB\bin\Debug\ServiceManager.pdb
+C:\Users\VanToM\Desktop\Service Manager Sample\VB\bin\Debug\ServiceManager.xml
+C:\Users\VanToM\Desktop\Service Manager Sample\VB\obj\Debug\ServiceManager.Form1.resources
+C:\Users\VanToM\Desktop\Service Manager Sample\VB\obj\Debug\ServiceManager.Resources.resources
+C:\Users\VanToM\Desktop\Service Manager Sample\VB\obj\Debug\ServiceManager.vbproj.GenerateResource.Cache
+C:\Users\VanToM\Desktop\Service Manager Sample\VB\obj\Debug\ServiceManager.exe
+C:\Users\VanToM\Desktop\Service Manager Sample\VB\obj\Debug\ServiceManager.xml
+C:\Users\VanToM\Desktop\Service Manager Sample\VB\obj\Debug\ServiceManager.pdb
